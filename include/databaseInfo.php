@@ -1,4 +1,4 @@
-<!-- Information for access to database. -->
+<!-- Information for access to database.  Refer to Yu_XiaoYang_Challenge.pdf for address and password. -->
 
 <?php
     define("ADDRESS", "localhost");
