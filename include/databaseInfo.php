@@ -1,4 +1,4 @@
-<!-- Private information for access to database. -->
+<!-- Information for access to database. -->
 
 <?php
     define("ADDRESS", "localhost");
