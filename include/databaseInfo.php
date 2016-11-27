@@ -3,6 +3,6 @@
 <?php
     define("ADDRESS", "localhost");
     define("USERNAME", "cl23-userinfo");
-    define("PASSWORD", "abiltoableto");
+    define("PASSWORD", "enterpassword");
     define("DBNAME", "cl23-userinfo");
 ?>
