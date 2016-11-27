@@ -13,5 +13,5 @@ Dependencies:
 All dependencies in my code are loaded from CDNs.
 
 Contact:
-xyyxiaoyangyu@gmail.com
-xyyu@princeton.edu
+- xyyxiaoyangyu@gmail.com
+- xyyu@princeton.edu
